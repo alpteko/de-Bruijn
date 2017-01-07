@@ -1,0 +1,3 @@
+/Users/alptekinorbay/Desktop/Assignment2/de-Bruijn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alptekinorbay/Desktop/Assignment2/de-Bruijn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alptekinorbay/Desktop/Assignment2/de-Bruijn/cmake-build-debug/CMakeFiles/de_burj.dir
